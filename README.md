@@ -27,6 +27,8 @@ _Example Git Clone_
 ```bash
 git clone git@github.com:freddan88/one-pager.git
 ```
+#### Live Preview
+https://freddan88.github.io/one-pager/
 
 ###### Example Servers and links:
 
