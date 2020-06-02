@@ -25,7 +25,7 @@ _HTML CSS Javascript Markdown <- Readme.md_
 _Example Git Clone_
 
 ```bash
-git clone https://github.com/gsvendsen/one-pager.git
+git clone git@github.com:freddan88/one-pager.git
 ```
 
 ###### Example Servers and links:
